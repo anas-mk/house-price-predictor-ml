@@ -32,6 +32,3 @@ The app is built using **Python**, **Scikit-learn**, and **Streamlit**.
 - **Streamlit**
 - **Joblib**
 
----
-
-## 📂 Project Structure
